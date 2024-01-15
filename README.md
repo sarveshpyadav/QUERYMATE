@@ -6,10 +6,36 @@
 
 ## Tech Used :
 
+- ``React.js``
+- ``TypeScript``
+- ``Node.js``
+- ``MongoDB``
+- ``CSS``
+- ``Vosk``
+- ``USE (Universal Sentence Encoder)``
+- ``BERT (Bi-directional Encoder Representations from Transformers)``
+
+
 ## Features :
 
-## Process :
+## Preview :
 
-## What I've Learned :
+|      **HOME**     |
+| :----------------------------------------: |
+![IMG-1](https://github.com/sarveshpyadav/QUERYMATE/assets/127607339/ec1e772f-21b4-4fa6-b3eb-e507ecdbeb5c)
+![IMG-2](https://github.com/sarveshpyadav/QUERYMATE/assets/127607339/aef2b437-bf93-4b5a-97ae-47ae89002eeb)
+![IMG-3](https://github.com/sarveshpyadav/QUERYMATE/assets/127607339/f126581f-5560-450f-bba0-682976675ca2)
+![IMG-4](https://github.com/sarveshpyadav/QUERYMATE/assets/127607339/0d726a0d-589a-4258-92b0-13ce1957fe41)
+![IMG-5](https://github.com/sarveshpyadav/QUERYMATE/assets/127607339/5b410bd8-e260-4aea-bbc6-bd66057ee793)
+
+|      **CHAT**     |
+| :----------------------------------------: |
+![IMG-6](https://github.com/sarveshpyadav/QUERYMATE/assets/127607339/b95fcda2-b7ea-462c-8642-c1853cb2ab30)
+![IMG-7](https://github.com/sarveshpyadav/QUERYMATE/assets/127607339/c8c2ced4-760c-4bb0-83c8-f4e6c54effdb)
+![IMG-8](https://github.com/sarveshpyadav/QUERYMATE/assets/127607339/b3479800-1c8b-4f42-b387-bc565c7cfa16)
+![IMG-9](https://github.com/sarveshpyadav/QUERYMATE/assets/127607339/c7d708e9-cdd6-4f15-b019-74d1d944bff3)
+![IMG-10](https://github.com/sarveshpyadav/QUERYMATE/assets/127607339/8b616e81-99a6-4ea6-ac13-da2c875ad884)
+![IMG-11](https://github.com/sarveshpyadav/QUERYMATE/assets/127607339/b42029f9-36da-4b6f-85ad-5765a29aed84)
+![IMG-12](https://github.com/sarveshpyadav/QUERYMATE/assets/127607339/5e2206ca-ab56-4565-b180-4d0144934303)
 
 ## How To Use :
